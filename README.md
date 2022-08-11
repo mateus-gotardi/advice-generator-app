@@ -25,10 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
+![image](https://user-images.githubusercontent.com/98918812/184193948-320b83e4-994a-4698-9b47-5a3dc9775e50.png)
+
+
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: (https://advice-generator-app-puce-seven.vercel.app)
 
 ### Built with
 
