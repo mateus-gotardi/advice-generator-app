@@ -42,5 +42,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Mateus Gotardi] ( https://mateusgotardi.vercel.app )
+- Website - [Mateus Gotardi](https://mateusgotardi.vercel.app)
 - Frontend Mentor - [@mateus-gotardi](https://www.frontendmentor.io/profile/mateus-gotardi)
